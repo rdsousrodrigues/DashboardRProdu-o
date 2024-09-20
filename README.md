@@ -11,6 +11,12 @@ Procedimento para análise
 
 Utilizando o Power BI, foi realizado a mineração dos dados contidos na planilha de Produção, transformando as informações brutas em análises claras e relevantes. O resultado é um painel interativo que permite a exploração dinâmica das métricas de desempenho que impacta diretamente nos resultados.
 
+O vídeo a seguir ilustra o processo de criação do Dashboard.
+
+
+https://github.com/user-attachments/assets/b1272820-b498-4eb4-bfa9-00218341010b
+
+
 Estou seguro de que essa abordagem não apenas melhorará a apresentação dos dados, mas também oferecerá uma compreensão mais clara e rápida das projeções de vendas, favorecendo um planejamento mais eficaz e alinhado aos objetivos da empresa. Agradeço pela atenção e espero que o Dashboard interativo se torne uma ferramenta útil para todos os gestores.
 
 Att, Rodolfo
