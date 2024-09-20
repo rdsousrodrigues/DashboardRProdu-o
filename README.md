@@ -1,6 +1,11 @@
 Apresentação do Relatório de Produção
 
-Partindo da premissa de que este relatório de produção é fundamental para a avaliação do desempenho operacional e estratégico, uma vez que fornece uma visão detalhada e objetiva dos processos produtivos ao longo do período analisado, foi elaborado o presente Dashboard. Com uma abordagem clara e intuitiva, essa ferramenta proporciona aos gestores uma visão completa e detalhada dos lucros, otimizando o processo de tomada de decisões estratégicas.
+Partindo da premissa de que este relatório de produção é fundamental para a avaliação do desempenho operacional e estratégico, uma vez que fornece uma visão detalhada e objetiva dos processos produtivos ao longo do período analisado, foi elaborado o presente Dashboard. 
+
+![image](https://github.com/user-attachments/assets/981f002e-9c48-4456-bd80-4a88361692fe)
+
+
+Com uma abordagem direta e fácil de entender, essa ferramenta oferece aos gestores uma visão abrangente e minuciosa dos lucros, aprimorando o processo de tomada de decisões estratégicas.
 
 Procedimento para análise
 
